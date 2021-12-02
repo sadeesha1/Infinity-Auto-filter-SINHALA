@@ -39,7 +39,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '📫 SUPPORT', url="https://t.me/BOTS_Infinity"
+                                    '📫 SUPPORT', url="https://t.me/pirateslkmovies"
                                 )
                         ]
                     ]
@@ -58,7 +58,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '📫 SUPPORT', url="https://t.me/BOTS_Infinity"
+                                    '📫 SUPPORT', url="https://t.me/pirateslkmovies"
                                 )
                         ]
                     ]
@@ -77,7 +77,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '📫 SUPPORT', url="https://t.me/BOTS_Infinity"
+                                    '📫 SUPPORT', url="https://t.me/pirateslkmovies"
                                 )
                         ]
                     ]
@@ -90,7 +90,7 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('📫 SUPPORT', url='https://t.me/BOTS_Infinity'),
+        InlineKeyboardButton('📫 SUPPORT', url='https://t.me/pirateslkmovies'),
         InlineKeyboardButton('📕 ABOUT', callback_data="about")
     ],[
         InlineKeyboardButton('💡 HELP', callback_data="help"),
