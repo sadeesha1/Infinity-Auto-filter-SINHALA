@@ -95,7 +95,7 @@ async def cb_navg(bot, update: CallbackQuery):
 
     if not int(index_val) == 0:    
         temp_results.append([
-            InlineKeyboardButton(f"🔰 Page {index_val + 1}/{len(results) if len(results) < max_pages else max_pages} 🔰", callback_data="ignore")
+            InlineKeyboardButton(f"🌀 Page {index_val + 1}/{len(results) if len(results) < max_pages else max_pages} 🌀", callback_data="ignore")
         ])
     
     if show_invite and int(index_val) !=0 :
@@ -143,7 +143,7 @@ async def cb_navg(bot, update: CallbackQuery):
     reply_markup = InlineKeyboardMarkup(temp_results)
 
 
-    text=f"**මෙන්න ඔයා හොයපු 👉 {query}                       @BOTS_Infinity**" ,
+    text=f"**ඔන්න ඔයාට ඕන කරපු 👉 {query}                       @pirateslkmovies**" ,
         
     try:
         await update.message.edit(
@@ -1639,7 +1639,7 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-        InlineKeyboardButton("📫 SUPPORT", url="https://t.me/BOTS_Infinity"),
+        InlineKeyboardButton("📫 SUPPORT", url="https://t.me/pirateslkmovies"),
         InlineKeyboardButton("📕 ABOUT", callback_data="about")
     ],[
         InlineKeyboardButton("💡 HELP", callback_data="help"),
