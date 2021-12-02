@@ -5,7 +5,7 @@
 class Translation(object):
     
     START_TEXT = """
-😍 Hai {} ,
+😍 Hai baby {} ,
 
 💡 Telegram Auto Filter Bot
 
@@ -24,7 +24,7 @@ I am a filter bot with advanced features currenty workig for any group. මේ�
 (📌 බොට්ව connect කරන්න හදන Group එකටයි Channel එකටයි add කරල ඔක්කොම Previlages එක්ක Admin දෙන්න. )
 </i>
 
-<b>🔰 𝐌𝐲 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 (Works Only In Groups/ Group වල විතරයි command දෙන්න පුලුවන්) :</b>
+<b> 🤗 𝐌𝐲 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 (Works Only In Groups/ Group වල විතරයි command දෙන්න පුලුවන්) :</b>
 
     👉 <code>/add chat_id</code>
                 OR                  - To Connect A Group With A Channel (Bot Should Be Admin With Full Previlages In Both Group And Channel.චැනල් එක connect කරන්න ඕනෙනම් /add ගහල space එකක තියල channel id එක ගහන්න)
@@ -48,7 +48,8 @@ I am a filter bot with advanced features currenty workig for any group. මේ�
             
             👉 <code>Status</code> - Button Will Shows The Stats Of Your Channel (Connect වෙලා තියෙන filter ගාන වගේ ඒව පෙන්න්නනවා)
             
-<b><a href="https://t.me/bots_infinity">©️ ɪɴғɪɴɪᴛʏ ʙᴏᴛs</a></b>
+<b><a href="https://t.me/pirateslkmovies">©️ pirateslkmovies
+</a></b>
 """
     
     ABOUT_TEXT = """
@@ -63,9 +64,9 @@ I am a filter bot with advanced features currenty workig for any group. මේ�
 
 ○ ᴠᴇʀsɪᴏɴ : 1.0.0
 
-○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : 🔐
+○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : no code 🤠
 
-○ ᴄʀᴇᴀᴛᴏʀ : [ᴅᴏᴄ ᴅx](https://t.me/dx_doc)
+○ ᴄʀᴇᴀᴛᴏʀ : [Hexer](https://t.me/Pirateslk)
 
-**[ɪɴғɪɴɪᴛʏ ʙᴏᴛs](https://t.me/bots_infinity)**
+**[Pirateslk](https://t.me/pirateslkmovies)**
 """
